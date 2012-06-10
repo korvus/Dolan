@@ -18,7 +18,7 @@ Plugin jquery for modificate string like the meme [Dolan](http://knowyourmeme.co
 * You can see an example of application on [paul.emik.free.fr/pls](http://paul.emik.free.fr/pls/dolan.php)
 * You must use `.dolanize()`
 * Code.
-    
+
     $(document).ready(function(){
     	var feedback = $("#from").dolanize();
     	alert(feedback[0].defaultValue); // Return the string 
