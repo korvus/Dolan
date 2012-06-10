@@ -20,10 +20,10 @@ Plugin jquery for modificate string like the meme [Dolan](http://knowyourmeme.co
 * Code.
 
 	
-	$(document).ready(function(){
-		var feedback = $("#from").dolanize();
-		alert(feedback[0].defaultValue); // Return the string 
-	})
+	>$(document).ready(function(){
+	>	var feedback = $("#from").dolanize();
+	>	alert(feedback[0].defaultValue); // Return the string 
+	>})
 
 ####Author :
 
