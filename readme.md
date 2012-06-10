@@ -1,6 +1,6 @@
 #Dolan
 
-Plugin jquery for modificate string like the meme ([Dolan](http://knowyourmeme.com/memes/dolan))
+Plugin jquery for modificate string like the meme [Dolan](http://knowyourmeme.com/memes/dolan)
 
 ####How it works :
 
@@ -15,10 +15,9 @@ Plugin jquery for modificate string like the meme ([Dolan](http://knowyourmeme.c
 
 ####How use :
 
-* You can see an example of application on ([paul.emik.free.fr/pls](http://paul.emik.free.fr/pls/dolan.php))
+* You can see an example of application on [paul.emik.free.fr/pls](http://paul.emik.free.fr/pls/dolan.php)
 * You must use `.dolanize()`
 * Code :
-
 	$(document).ready(function(){
 		var feedback = $("#from").dolanize();
 		alert(feedback[0].defaultValue); // Return the string 
