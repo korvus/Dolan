@@ -19,10 +19,10 @@ Plugin jquery for modificate string like the [Dolan](http://knowyourmeme.com/mem
 * You must use `.dolanize()`
 * Code.
 
-    $(document).ready(function(){
-    	var feedback = $("#from").dolanize();
-    	alert(feedback[0].defaultValue);
-    })
+         $(document).ready(function(){
+        	 var feedback = $("#from").dolanize();
+          	 alert(feedback[0].defaultValue);
+         })
 
 ####Author:
 
